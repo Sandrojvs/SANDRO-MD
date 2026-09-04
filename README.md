@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Picsart_26-09-02_20-05-29-149.jpg" width="100%">
+  <img src="./sandrobot.jpg" width="100%">
 </p>
 
 <h1 align="center">🚀 SANDRO-MD 🚀</h1>
