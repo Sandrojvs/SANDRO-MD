@@ -74,6 +74,12 @@ npm start
 
 ✅ Figurinhas
 
+✅️antilink
+
+✅️antideletar mensagem
+
+✅️consultas
+
 ✅ Inteligência Artificial
 
 ✅ Busca de Músicas
