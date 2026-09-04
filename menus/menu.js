@@ -5,7 +5,7 @@ return`╔♡∞*♡♡∞:｡.｡🍋‍🟩｡.｡:∞♡*♡:∞♡╗
 ╭・・⪩ 𓆩ꨄ︎𓆪 𝙄𝙉𝙁𝙊 𝘽𝙊𝙏 𓆩ꨄ︎𓆪 ⪨・・
 │°ꨄ︎🍋‍🟩Bot: ${NomeDoBot}
 │°ꨄ︎🍋‍🟩Dono: ${NickDono}
-│°ꨄ︎🍋‍🟩Versão: 37
+│°ꨄ︎🍋‍🟩Versão: 38
 │°ꨄ︎🍋‍🟩Prefixo: [${prefix}]
 │°ꨄ︎🍋‍🟩Biblioteca: MD
 ├・・・・⪩ 𝙐𝙎𝙀𝙍 ⪨・・・・
