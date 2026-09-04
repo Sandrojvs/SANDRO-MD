@@ -58,7 +58,7 @@ git clone https://github.com/Sandrojvs/SANDRO-MD.git
 cd /sdcard/SANDRO-MD
 ```
 
-### 4️⃣ Iniciar o Bot
+### 5️⃣ Iniciar o Bot
 
 ```bash
 npm start
