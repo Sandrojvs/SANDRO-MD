@@ -1,0 +1,31 @@
+var Marina = [
+    'https://telegra.ph/file/f71e962b8cd4b3b00f29d.jpg',
+    'https://telegra.ph/file/110f6473020a5b3485e78.jpg',
+    'https://telegra.ph/file/c0aa91e73cee884d73a0a.jpg',
+    'https://telegra.ph/file/02dc5cb43496e83014775.jpg',
+    'https://telegra.ph/file/02ec940b28c915073ff2a.jpg',
+    'https://telegra.ph/file/f90c4a3c0c26ab876cac0.jpg',
+    'https://telegra.ph/file/980f1cf188a1f32ab2cf5.jpg',
+    'https://telegra.ph/file/70f5029c773f12fc8f285.jpg',
+    'https://telegra.ph/file/f661a7127590578c61017.jpg',
+    'https://telegra.ph/file/86c18922d20f6838ee109.jpg',
+    'https://telegra.ph/file/d6684200a6edd31dcfe12.jpg',
+    'https://telegra.ph/file/923f103aae5c3ca018581.jpg',
+    'https://telegra.ph/file/dcf708bca722611360abb.jpg',
+    'https://telegra.ph/file/025da09d10fdd69b3a406.jpg',
+    'https://telegra.ph/file/5c7d5763064e7862e8f8a.jpg',
+    'https://telegra.ph/file/be4e06a4d01e388ec2a41.jpg',
+    'https://telegra.ph/file/3e3a3c4aee25eb6a37062.jpg',
+    'https://telegra.ph/file/955699faf314e0ba3e243.jpg',
+    'https://telegra.ph/file/b2326d1749c13de91c578.jpg',
+    'https://telegra.ph/file/686fb18baa80493a30039.jpg',
+    'https://telegra.ph/file/ae005753f9ac3e7a5644e.jpg',
+    'https://telegra.ph/file/0d2c8842e9ef5f4e3c18f.jpg',
+    'https://telegra.ph/file/b3e434a808b5e26612c69.jpg',
+    'https://telegra.ph/file/7e5487ba61304bfb76f02.jpg',
+    'https://telegra.ph/file/8c202761fc2387e46a0c7.jpg',
+    'https://telegra.ph/file/53c8519b114c45c5b9cc0.jpg',
+    'https://telegra.ph/file/634a20e7de33e552b7261.jpg'
+    ]
+
+exports.Marina = Marina

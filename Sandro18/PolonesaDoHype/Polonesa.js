@@ -1,0 +1,32 @@
+var Polonesa = [
+    'https://telegra.ph/file/8d720c36089690e894b42.jpg',
+    'https://telegra.ph/file/ef3014078e3081d755c15.jpg',
+    'https://telegra.ph/file/bc3c0347c1ff48b2e0a29.jpg',
+    'https://telegra.ph/file/7bea318cb877d7dda6e06.jpg',
+    'https://telegra.ph/file/40da06f16a62c3335c4d6.jpg',
+    'https://telegra.ph/file/01f80125fbdeee6250405.jpg',
+    'https://telegra.ph/file/45fc5391358bafc41cffb.jpg',
+    'https://telegra.ph/file/ecbe455c1c01196a67fa1.jpg',
+    'https://telegra.ph/file/230f86c1ac17b1009f6b3.jpg',
+    'https://telegra.ph/file/286f9fd360cd26f654a12.jpg',
+    'https://telegra.ph/file/0d1fed91f40fd2371ebe1.jpg',
+    'https://telegra.ph/file/1d1f50d2d629faa8fdd48.jpg',
+    'https://telegra.ph/file/6db508b44cf705200008c.jpg',
+    'https://telegra.ph/file/8250a3533b53a0437c3b2.jpg',
+    'https://telegra.ph/file/0b6e3a477da9f32ee6978.jpg',
+    'https://telegra.ph/file/5793ea5508672fdbe362f.jpg',
+    'https://telegra.ph/file/c7cee5afb7a3c4cc5c8c1.jpg',
+    'https://telegra.ph/file/71ab17faee1cf20ec82f3.jpg',
+    'https://telegra.ph/file/6fa068c19d79b52dee6da.jpg',
+    'https://telegra.ph/file/0f52ad6847f35df231131.jpg',
+    'https://telegra.ph/file/f8edfd70bfa61254a9a31.jpg',
+    'https://telegra.ph/file/5f5c9046ecbd7eb8bbdcc.jpg',
+    'https://telegra.ph/file/aa539fca2d0599f67a975.jpg',
+    'https://telegra.ph/file/742a40b06078a1d1172ff.jpg',
+    'https://telegra.ph/file/e70cc6d08ab545feae5e3.jpg',
+    'https://telegra.ph/file/9547c55d67c882695164c.jpg',
+    'https://telegra.ph/file/593974749d3aab9b415aa.jpg',
+    'https://telegra.ph/file/b86d6f2d64c7e1a5a801e.jpg'
+    ]
+
+exports.Polonesa = Polonesa

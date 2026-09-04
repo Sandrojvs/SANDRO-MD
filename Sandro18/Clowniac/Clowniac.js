@@ -1,0 +1,32 @@
+var Clowniac = [
+    'https://telegra.ph/file/47d1595dbbd112f9621d0.jpg',
+    'https://telegra.ph/file/8f0ec5dfd49fa08de2d6d.jpg',
+    'https://telegra.ph/file/54e2f097b63ffa013db02.jpg',
+    'https://telegra.ph/file/70ea10fa2f8dc9916e81a.jpg',
+    'https://telegra.ph/file/a7e06eac5b548b45e3e36.jpg',
+    'https://telegra.ph/file/3c532f2ded4f58c39688b.jpg',
+    'https://telegra.ph/file/f9b33e9cd7f2a3d1294d2.jpg',
+    'https://telegra.ph/file/ea25f85957fdd59ebb5d5.jpg',
+    'https://telegra.ph/file/2bb9ab5d46c075f3ded46.jpg',
+    'https://telegra.ph/file/3e294d4395c1e1698beb4.jpg',
+    'https://telegra.ph/file/1cd0286c928f833433a78.jpg',
+    'https://telegra.ph/file/500b9cf3c3d3056ce66b7.jpg',
+    'https://telegra.ph/file/d1e0c1dc69d047e29d932.jpg',
+    'https://telegra.ph/file/95497c21705a968501eac.jpg',
+    'https://telegra.ph/file/b46c8e6a80985585a8b61.jpg',
+    'https://telegra.ph/file/eaaa86c3098db2151b9e7.jpg',
+    'https://telegra.ph/file/620d6c913eb22489de165.jpg',
+    'https://telegra.ph/file/e65c9fbd6174820fdf07c.jpg',
+    'https://telegra.ph/file/24447e7765d6492d06815.jpg',
+    'https://telegra.ph/file/2bb7c2c9434b473cd66e8.jpg',
+    'https://telegra.ph/file/ab1d47920aa48d041e05a.jpg',
+    'https://telegra.ph/file/063bf00dea1d6e432f4f7.jpg',
+    'https://telegra.ph/file/0d0cce320e528314c687d.jpg',
+    'https://telegra.ph/file/e28a47eec2a9566a25d0a.jpg',
+    'https://telegra.ph/file/e32018205b2e2fcd37e7b.jpg',
+    'https://telegra.ph/file/cab3c46dbd8ca6c166eef.jpg',
+    'https://telegra.ph/file/c1028a64440c6a8caf475.jpg',
+    'https://telegra.ph/file/8bd1c1a44d62a0fd1e3be.jpg'
+    ]
+
+exports.Clowniac = Clowniac

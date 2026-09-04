@@ -1,0 +1,83 @@
+[
+  {
+    "groupId": "120363090676273560@g.us",
+    "avisos": [
+      {
+        "id": "69",
+        "text": "salve vai perder corre lá na bronxyshost.com",
+        "time": "13:37",
+        "date": null,
+        "daily": true,
+        "mediaPath": "dados\\avisos-automaticos\\media\\aviso_1772123771363.jpg",
+        "type": "image",
+        "admin": "261443249250374@lid",
+        "lastSent": null
+      }
+    ]
+  },
+  {
+    "groupId": "120363422857705223@g.us",
+    "avisos": [
+      {
+        "id": "56",
+        "text": "corrammm urgente",
+        "time": "17:28",
+        "date": null,
+        "daily": true,
+        "mediaPath": "dados\\avisos-automaticos\\media\\aviso_1772137666178.mp4",
+        "type": "video",
+        "admin": "261443249250374@lid",
+        "lastSent": "26/02/26"
+      },
+      {
+        "id": "91",
+        "text": "salve família vamoooo",
+        "time": "17:29",
+        "date": null,
+        "daily": true,
+        "mediaPath": "dados\\avisos-automaticos\\media\\aviso_1772137732681.ogg",
+        "type": "audio",
+        "admin": "261443249250374@lid",
+        "lastSent": "26/02/26"
+      }
+    ]
+  },
+  {
+    "groupId": "120363404336116597@g.us",
+    "avisos": [
+      {
+        "id": "72",
+        "text": "Slave testando sistema de aviso alea",
+        "time": "20:30",
+        "date": null,
+        "daily": true,
+        "mediaPath": "dados\\avisos-automaticos\\media\\aviso_1772234451562.jpg",
+        "type": "image",
+        "admin": "261443249250374@lid",
+        "lastSent": null
+      },
+      {
+        "id": "45",
+        "text": "salve testando sistema de aviso do alea",
+        "time": "20:26",
+        "date": "27/02/26",
+        "daily": false,
+        "mediaPath": null,
+        "type": "text",
+        "admin": "261443249250374@lid",
+        "lastSent": null
+      },
+      {
+        "id": "58",
+        "text": "testando sistema de aviso Bronxys",
+        "time": "22:14",
+        "date": null,
+        "daily": true,
+        "mediaPath": "dados\\avisos-automaticos\\media\\aviso_1772241121451.jpg",
+        "type": "image",
+        "admin": "261443249250374@lid",
+        "lastSent": "27/02/26"
+      }
+    ]
+  }
+]

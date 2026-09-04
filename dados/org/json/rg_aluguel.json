@@ -1,0 +1,47 @@
+[
+  {
+    "id_gp": "120363090676273560@g.us",
+    "nome_": "⚠️ STAFF Bronxys Host",
+    "link": "https://chat.whatsapp.com/G1abSJN9GJV9pkgQ5jdBnT?mode=gi_t",
+    "responsavel_nome": "Josival",
+    "responsavel_contato": "551288282883838383",
+    "data_aluguel": "2026-02-26T08:57:50.704Z",
+    "vencimento": 1775897870,
+    "vencimento_iso": "2026-04-11T08:57:50.000Z",
+    "plano_dias": 44,
+    "valor": "23",
+    "aviso_3d_enviado": false,
+    "aviso_1d_enviado": false,
+    "cadastrado_por": "M.Scheyot Ytb (261443249250374)"
+  },
+  {
+    "id_gp": "120363422857705223@g.us",
+    "nome_": "Sakura Bot Dev",
+    "link": "https://chat.whatsapp.com/D6qNp4gmlEMJjNasP2JPA9",
+    "responsavel_nome": "Rafael",
+    "responsavel_contato": "55558288282822",
+    "data_aluguel": "2026-02-26T19:22:54.803Z",
+    "vencimento": 1773429774,
+    "vencimento_iso": "2026-03-13T19:22:54.803Z",
+    "plano_dias": 15,
+    "valor": "50",
+    "aviso_3d_enviado": false,
+    "aviso_1d_enviado": false,
+    "cadastrado_por": "M.Scheyot Ytb (261443249250374)"
+  },
+  {
+    "id_gp": "120363404336116597@g.us",
+    "nome_": "Dev aleatory",
+    "link": "https://chat.whatsapp.com/HJoISoHWNl02xGsu7KPJaT",
+    "responsavel_nome": "Scheyot",
+    "responsavel_contato": "5512978986457",
+    "data_aluguel": "2026-02-28T04:32:15.579Z",
+    "vencimento": 1772857935,
+    "vencimento_iso": "2026-03-07T04:32:15.579Z",
+    "plano_dias": 7,
+    "valor": "30",
+    "aviso_3d_enviado": false,
+    "aviso_1d_enviado": false,
+    "cadastrado_por": "M.Scheyot Ytb (261443249250374)"
+  }
+]

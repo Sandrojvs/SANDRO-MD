@@ -1,0 +1,29 @@
+https://github.com/Sandrojvs/SANDRO-MD.git
+
+SEJA BEMVINDO(A) AOS COMANDOS DE INSTALAÇÃO!!
+
+1) termux-setup-storage
+
+2) cd /sdcard/SANDRO-MD
+
+ou
+
+cd /sdcard/Download/SANDRO-MD
+
+3) sh instalar.sh
+
+pra ligar o bot, caso desligue ou queira desligar ele, para desligar CTRL C
+
+> LIGAR
+4) npm start
+
+//Informações basicas, tudo esta aqui.
+
+Para desligar o bot clica em CTRL depois digita s, e da enter, faça isso ate aparecer uma pasta verde exemplo cd /sdcard/.... pronto bot desligado, para ligar digite npm start, caso ele ligue e nao responde nenhum comando ele pegou (atraso) Para resolver isso e bem Simples, digita (CTRL) (C) (ENTER) faça isso ate aparecer uma pasta verde, Vai no bot SANDRO-MD e apaga a pasta qr-code volta no termux e digita npm start
+e faça uma nova conexão.
+
+• Isso do bot pegar atraso so acontece quando o bot fica muito tempo desligado ou sem Internet, bem simples de resolver.
+
+• Outra coisa caso o bot nao responda outros usuários no (pv) ou (grupo) e bem simples de resolver, so mandar /boton bem simples ne?, caso ele nao responda em grupos so mandar /modoaluguel 0, Também vem com o antipv3 ativado, bem simples de resolver também, so mandar /antipv3 0 e isso. Bot 100% ONLINE.
+
+> sandro bot.

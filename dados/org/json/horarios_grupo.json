@@ -1,0 +1,145 @@
+[
+  {
+    "grupoId": "120363090676273560@g.us",
+    "horarios": [
+      {
+        "id": "7V",
+        "tipo": "fechar",
+        "modo": "diario",
+        "valor": "06:51",
+        "adm": "261443249250374@lid",
+        "criadoEm": "2026-02-26T09:50:36.411Z",
+        "_ultimaExec": "09/03/2026"
+      },
+      {
+        "id": "4U",
+        "tipo": "abrir",
+        "modo": "diario",
+        "valor": "06:52",
+        "adm": "261443249250374@lid",
+        "criadoEm": "2026-02-26T09:51:56.727Z",
+        "_ultimaExec": "09/03/2026"
+      },
+      {
+        "id": "3Y",
+        "tipo": "abrir",
+        "modo": "diario",
+        "valor": "07:07",
+        "adm": "261443249250374@lid",
+        "criadoEm": "2026-02-26T10:07:01.820Z",
+        "_ultimaExec": "09/03/2026"
+      },
+      {
+        "id": "QR",
+        "tipo": "fechar",
+        "modo": "diario",
+        "valor": "07:08",
+        "adm": "261443249250374@lid",
+        "criadoEm": "2026-02-26T10:07:34.486Z",
+        "_ultimaExec": "09/03/2026"
+      }
+    ]
+  },
+  {
+    "grupoId": "120363404336116597@g.us",
+    "horarios": [
+      {
+        "id": "73",
+        "tipo": "fechar",
+        "modo": "diario",
+        "valor": "20:30",
+        "adm": "261443249250374@lid",
+        "criadoEm": "2026-02-27T23:17:20.678Z",
+        "_ultimaExec": "08/03/2026"
+      },
+      {
+        "id": "48",
+        "tipo": "abrir",
+        "modo": "diario",
+        "valor": "20:35",
+        "adm": "261443249250374@lid",
+        "criadoEm": "2026-02-27T23:17:56.954Z",
+        "_ultimaExec": "08/03/2026"
+      },
+      {
+        "id": "53",
+        "tipo": "fechar",
+        "modo": "diario",
+        "valor": "22:15",
+        "adm": "261443249250374@lid",
+        "criadoEm": "2026-02-28T01:10:22.930Z",
+        "_ultimaExec": "08/03/2026"
+      },
+      {
+        "id": "70",
+        "tipo": "abrir",
+        "modo": "diario",
+        "valor": "22:16",
+        "adm": "261443249250374@lid",
+        "criadoEm": "2026-02-28T01:10:30.421Z",
+        "_ultimaExec": "08/03/2026"
+      }
+    ]
+  },
+  {
+    "grupoId": "120363422857705223@g.us",
+    "horarios": [
+      {
+        "id": "74",
+        "tipo": "fechar",
+        "modo": "diario",
+        "valor": "17:18",
+        "adm": "261443249250374@lid",
+        "criadoEm": "2026-02-26T20:17:13.949Z",
+        "_ultimaExec": "08/03/2026"
+      },
+      {
+        "id": "53",
+        "tipo": "fechar",
+        "modo": "data",
+        "valor": "26/02/2026 22:30",
+        "adm": "261443249250374@lid",
+        "criadoEm": "2026-02-26T20:39:16.161Z"
+      },
+      {
+        "id": "71",
+        "tipo": "fechar",
+        "modo": "diario",
+        "valor": "17:42",
+        "adm": "261443249250374@lid",
+        "criadoEm": "2026-02-26T20:40:16.121Z",
+        "_ultimaExec": "08/03/2026"
+      },
+      {
+        "id": "62",
+        "tipo": "abrir",
+        "modo": "diario",
+        "valor": "03:16",
+        "adm": "261443249250374@lid",
+        "criadoEm": "2026-02-28T06:15:20.823Z",
+        "_ultimaExec": "28/02/2026"
+      }
+    ]
+  },
+  {
+    "grupoId": "120363406817662794@g.us",
+    "horarios": [
+      {
+        "id": "88",
+        "tipo": "fechar",
+        "modo": "diario",
+        "valor": "12:59",
+        "adm": "69213934874660@lid",
+        "criadoEm": "2026-03-18T15:58:33.723Z"
+      },
+      {
+        "id": "92",
+        "tipo": "fechar",
+        "modo": "diario",
+        "valor": "13:02",
+        "adm": "69213934874660@lid",
+        "criadoEm": "2026-03-18T16:00:19.568Z"
+      }
+    ]
+  }
+]
