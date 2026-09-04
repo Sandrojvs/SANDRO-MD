@@ -40,22 +40,22 @@
 termux-setup-storage
 ```
 
-### 2️⃣ Entrar na Pasta do Bot
+### 2️⃣ ir para o sdcard
+
+```bash
+cd /sdcard/
+```
+
+### 3️⃣ Instalar o bot
+
+```bash
+git clone https://github.com/Sandrojvs/SANDRO-MD.git
+```
+
+### 4️⃣ ir para o Bot
 
 ```bash
 cd /sdcard/SANDRO-MD
-```
-
-### OU
-
-```bash
-cd /sdcard/Download/SANDRO-MD
-```
-
-### 3️⃣ Executar o Instalador
-
-```bash
-sh instalar.sh
 ```
 
 ---
