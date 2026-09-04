@@ -32,7 +32,7 @@
 
 ---
 
-## 📥 INSTALAÇÃO
+## 📥 INSTALAÇÃO TERMUX
 
 ### 1️⃣ Dar Permissão ao Armazenamento
 
